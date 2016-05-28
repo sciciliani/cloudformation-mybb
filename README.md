@@ -13,4 +13,4 @@ Using a single CloudFormation template file create a myBB forum with the followi
 
 ## Architecture Diagram
 
-[[slide1.jpg]]
+![CloudFormation Architecture design](slide1.jpg)
